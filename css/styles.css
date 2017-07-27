@@ -1,0 +1,18 @@
+#ryan { /* target id of ryan */
+  background-image: url("../images/shannon.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+}
+
+.wrapper { /* target class of wrapper */
+  /* background-color: purple; */
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  margin-bottom: 15px;
+  text-decoration: underline;
+  color: white;
+}
